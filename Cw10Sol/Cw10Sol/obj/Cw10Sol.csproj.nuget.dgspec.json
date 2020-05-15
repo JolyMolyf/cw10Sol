@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JolyMoly\\Desktop\\apbd9\\Cw10Sol\\Cw10Sol\\Cw10Sol.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JolyMoly\\Desktop\\apbd9\\Cw10Sol\\Cw10Sol\\Cw10Sol.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JolyMoly\\Desktop\\apbd9\\Cw10Sol\\Cw10Sol\\Cw10Sol.csproj",
+        "projectName": "Cw10Sol",
+        "projectPath": "C:\\Users\\JolyMoly\\Desktop\\apbd9\\Cw10Sol\\Cw10Sol\\Cw10Sol.csproj",
+        "packagesPath": "C:\\Users\\JolyMoly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JolyMoly\\Desktop\\apbd9\\Cw10Sol\\Cw10Sol\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JolyMoly\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0-preview.3.20181.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0-preview.3.20181.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.0-preview.3.20181.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\JolyMoly\\.dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

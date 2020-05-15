@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7eb16636-da60-4ff7-a5c2-1485775645e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Cw10Sol/Models/DbContextEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cw10Sol/Models/Studies.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cw10Sol/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cw10Sol/Models/Enrollemnt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cw10Sol/Models/Student.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cw10Sol/Services/IDbService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cw10Sol/WeatherForecast.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cw10Sol/Services/Dbservie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cw10Sol/Controllers/StudentsController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Cw10Sol/Models/Student.cs" />
+        <option value="$PROJECT_DIR$/Cw10Sol/Startup.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0dd82fe0-aff4-47d9-a7f2-777f716c8edb/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/fef855d1-0726-44ba-86b5-bbdefbd9cdb9/console.sql" />
+        <option value="$PROJECT_DIR$/Cw10Sol/Models/DbContextEntity.cs" />
+        <option value="$PROJECT_DIR$/Cw10Sol/Models/Enrollemnt.cs" />
+        <option value="$PROJECT_DIR$/Cw10Sol/Models/Studies.cs" />
+        <option value="$PROJECT_DIR$/Cw10Sol/Services/IDbService.cs" />
+        <option value="$PROJECT_DIR$/Cw10Sol/Services/Dbservie.cs" />
+        <option value="$PROJECT_DIR$/Cw10Sol/Controllers/StudentsController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bulOf6sStLCBJ4wT98OUWyRGHY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.Cw10Sol">
+    <configuration name="Cw10Sol" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Cw10Sol/Cw10Sol.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="Cw10Sol" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Cw10Sol: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Cw10Sol/Cw10Sol.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7eb16636-da60-4ff7-a5c2-1485775645e9" name="Default Changelist" comment="" />
+      <created>1589489851620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589489851620</updated>
+      <workItem from="1589489853051" duration="31000" />
+      <workItem from="1589491947623" duration="4717000" />
+      <workItem from="1589550127457" duration="683000" />
+      <workItem from="1589551005397" duration="2642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589552487448">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="553" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1589552487448" />
+    <state width="1877" height="322" key="GridCell.Tab.0.bottom" timestamp="1589553651865">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1589553651865" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.23.1920.1097@0.23.1920.1097" timestamp="1589489883657" />
+    <state width="1877" height="322" key="GridCell.Tab.0.center" timestamp="1589553651865">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="322" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1589553651865" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center/0.23.1920.1097@0.23.1920.1097" timestamp="1589489883656" />
+    <state width="1877" height="322" key="GridCell.Tab.0.left" timestamp="1589553651865">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="322" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1589553651865" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left/0.23.1920.1097@0.23.1920.1097" timestamp="1589489883656" />
+    <state width="1877" height="322" key="GridCell.Tab.0.right" timestamp="1589553651865">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="322" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1589553651865" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right/0.23.1920.1097@0.23.1920.1097" timestamp="1589489883656" />
+    <state width="215" height="455" key="HiddenNamespacesPopup" timestamp="1589551370477">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="215" height="455" key="HiddenNamespacesPopup/0.0.1920.1160@0.0.1920.1160" timestamp="1589551370477" />
+    <state x="710" y="282" key="RiderGenerateDialog" timestamp="1589550702119">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="710" y="282" key="RiderGenerateDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1589550702119" />
+  </component>
+</project>
